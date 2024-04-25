@@ -14,5 +14,5 @@ Q5 Big Data Processing: Assuming the computer can only handle 200K rows of data 
   - To correct these cases, please replace the “LogErrors” with “-99”, remove cases where vehicle IDs are shorter than 16 characters in length, and regenerate the equivalent of cars_per_parking_sys.csv for the parking system(s) that have this issue.
   - To output the summary statistics of this corrected dataset, and recreate the trend figures you created to diagnose the issue in 5.1.
 
-You can download the complete coding sample folder, including the coding file and the mentioned datasets,(Please download the entire coding_sample_folder to run the code successfully): 
+You can download the complete coding sample folder, including the coding file and the mentioned datasets (Please kindly download the entire coding_sample_folder to run the code successfully): 
 https://www.dropbox.com/scl/fo/4hzdoeetvnzw9sainpvdt/APu01qUYf8BJPwNvQUtRwj8?rlkey=6cnweh192ghpo84a844agidu0&dl=0
